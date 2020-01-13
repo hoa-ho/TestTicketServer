@@ -180,5 +180,32 @@
               "id": 290,
               "name": "Transfer Ticket"
          }
+    ],
+
+    "ticketQueues": [
+         {
+              "id": 21,
+              "name": "Open Tickets"
+         },
+         {
+              "id": 22,
+              "name": "Assigned Tickets"
+         },
+         {
+              "id": 23,
+              "name": "Answered Tickets"
+         },
+         {
+              "id": 24,
+              "name": "Overdue Tickets"
+         },
+         {
+              "id": 25,
+              "name": "Draft Tickets"
+         },
+         {
+              "id": 26,
+              "name": "Closed Tickets"
+         }
     ]
 }
