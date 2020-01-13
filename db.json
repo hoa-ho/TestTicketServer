@@ -1,0 +1,184 @@
+{
+     "tickets": [
+         {
+               "id": 1848393,
+               "title": "Why is there an exception to every rule?",
+               "sender": "John Doe",
+               "status": "Open",
+               "timestamp": "9/21/2019 5:46 PM"
+         },
+         {
+               "id": 1848394,
+               "title": "Why do logic and reason fail to explain that which is true?",
+               "sender": "Bob Junior",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848395,
+               "title": "Is the universe finite or infinite?",
+               "sender": "Bob Junior",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848396,
+               "title": "Why does anything exist?",
+               "sender": "Tom Fontenot",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848397,
+               "title": "What food have you never eaten but would really like to try?",
+               "sender": "George Olsen",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848397,
+               "title": "What food have you never eaten but would really like to try?",
+               "sender": "George Olsen",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848398,
+               "title": "What’s something you really resent paying for?",
+               "sender": "Barack Obama",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848399,
+               "title": "What would a world populated by clones of you be like",
+               "sender": "Victoria Rickshaw",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848400,
+               "title": "What are some red flags to watch out for in daily life?",
+               "sender": "Larry Page",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848401,
+               "title": "What movie can you watch over and over without ever getting tired of?",
+               "sender": "Shinhwa Cheng",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848402,
+               "title": "When you are old, what do you think children will ask you to tell stories about?",
+               "sender": "Gucci Fendi",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848403,
+               "title": "What inanimate object would be the most annoying if it played loud upbeat music while being used?",
+               "sender": "Llama Bama",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848404,
+               "title": "If your job gave you a surprise three day paid break to rest and recuperate, what would you do with those three days?",
+               "sender": "Space Cat",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         },
+         {
+               "id": 1848405,
+               "title": "What’s something that will always be in fashion, no matter how much time passes?",
+               "sender": "Hoa Ho",
+               "status": "Open",
+               "timestamp": "9/22/2019 1:15 PM"
+         }
+    ],
+
+    "threads": [
+         {
+              "id": 288383,
+              "sender": "Bob Junior",
+              "profileUrl": "https://via.placeholder.com/100",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus lorem ex, sed blandit massa maximus non. Ut nec ornare ipsum, quis efficitur turpis. Donec malesuada tempus dolor, vel elementum ipsum tempus sit amet. Sed blandit ut purus ac blandit. Ut eu scelerisque libero. Sed et arcu vitae neque consectetur cursus. Sed tincidunt gravida justo sit amet rutrum.",
+              "timestamp": "12/09/2019 11:34:21 PM",
+              "threadType": "user"
+         },
+         {
+              "id": 288384,
+              "sender": "Hoa Ho",
+              "profileUrl": "https://via.placeholder.com/100",
+              "content": "Etiam id turpis hendrerit, finibus tortor id, laoreet arcu. Praesent porta nulla quis mi ullamcorper, non viverra risus aliquam. Vestibulum in nibh massa. Curabitur vel velit sit amet lacus luctus vehicula in quis sem.",
+              "timestamp": "12/10/2019 09:34:21 AM",
+              "threadType": "agent"
+         },
+         {
+              "id": 288385,
+              "sender": "Bob Junior",
+              "profileUrl": "https://via.placeholder.com/100",
+              "content": "Integer ac dolor quam. Pellentesque sodales tortor ac imperdiet molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas quis justo sem. Quisque enim dui, cursus a feugiat eu, tempor quis massa. Duis ultricies ex non mi imperdiet, in congue nibh convallis.",
+              "timestamp": "12/10/2019 04:12:05 PM",
+              "threadType": "user"
+         },
+         {
+              "id": 288386,
+              "sender": "Bob Junior",
+              "profileUrl": "https://via.placeholder.com/100",
+              "content": "Suspendisse vulputate metus et nibh rutrum, vel ornare est lobortis. Vivamus vestibulum porttitor erat sit amet posuere.",
+              "timestamp": "12/10/2019 05:34:21 PM",
+              "threadType": "user"
+         },
+         {
+              "id": 288387,
+              "sender": "Hoa Ho",
+              "profileUrl": "https://via.placeholder.com/100",
+              "content": "In vel mauris sit amet purus pulvinar sollicitudin non vel diam. Suspendisse tempor suscipit luctus. Aliquam luctus tortor non nibh tristique interdum. Integer sollicitudin ex sed elit tempor scelerisque.",
+              "timestamp": "12/11/2019 12:05:21 PM",
+              "threadType": "agent"
+         },
+         {
+              "id": 288388,
+              "sender": "Bob Junior",
+              "profileUrl": "https://via.placeholder.com/100",
+              "content": "Nam condimentum tincidunt nisi quis tincidunt. Vestibulum venenatis quis leo nec molestie. Fusce nisl dui, tincidunt eu bibendum sit amet, ornare non lorem. Quisque imperdiet sit amet eros volutpat mattis. Etiam cursus felis eu tortor commodo, eu pharetra purus pretium. Cras eu lacus lectus.",
+              "timestamp": "12/12/2019 11:34:21 AM",
+              "threadType": "user"
+         }
+    ],
+
+    "ticketMenu": [
+         {
+              "id": 284,
+              "name": "Edit Ticket"
+         },
+         {
+              "id": 285,
+              "name": "Delete Ticket"
+         },
+         {
+              "id": 286,
+              "name": "Reopen Ticket"
+         },
+         {
+              "id": 287,
+              "name": "Close Ticket"
+         },
+         {
+              "id": 288,
+              "name": "Assign Ticket"
+         },
+         {
+              "id": 289,
+              "name": "Claim Ticket"
+         },
+         {
+              "id": 290,
+              "name": "Transfer Ticket"
+         }
+    ]
+}
