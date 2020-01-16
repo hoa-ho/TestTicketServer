@@ -207,5 +207,44 @@
               "id": 26,
               "name": "Closed Tickets"
          }
+    ],
+
+    "attachments": [
+         {
+              "id": 583829,
+              "name": "Q4_Report",
+              "fileType": "pdf",
+              "size": 2.5,
+              "sizeType": "MB",
+              "threadId": 288383,
+              "ticketId": 1848394
+         },
+         {
+              "id": 583830,
+              "name": "businessplan",
+              "fileType": "docx",
+              "size": 5.7,
+              "sizeType": "MB",
+              "threadId": 288383,
+              "ticketId": 1848394
+         },
+         {
+              "id": 583830,
+              "name": "error_screenshot",
+              "fileType": "jpg",
+              "size": 1.2,
+              "sizeType": "MB",
+              "threadId": 288385,
+              "ticketId": 1848394
+         },
+         {
+              "id": 583831,
+              "name": "umbrella",
+              "fileType": "jpg",
+              "size": 835,
+              "sizeType": "KB",
+              "threadId": 288387,
+              "ticketId": 1848394
+         }
     ]
 }
