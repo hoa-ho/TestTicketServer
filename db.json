@@ -107,7 +107,8 @@
               "profileUrl": "https://via.placeholder.com/100",
               "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus lorem ex, sed blandit massa maximus non. Ut nec ornare ipsum, quis efficitur turpis. Donec malesuada tempus dolor, vel elementum ipsum tempus sit amet. Sed blandit ut purus ac blandit. Ut eu scelerisque libero. Sed et arcu vitae neque consectetur cursus. Sed tincidunt gravida justo sit amet rutrum.",
               "timestamp": "12/09/2019 11:34:21 PM",
-              "threadType": "user"
+              "threadType": "user",
+              "attachmentsCount": 2
          },
          {
               "id": 288384,
@@ -115,7 +116,8 @@
               "profileUrl": "https://via.placeholder.com/100",
               "content": "Etiam id turpis hendrerit, finibus tortor id, laoreet arcu. Praesent porta a quis mi ullamcorper, non viverra risus aliquam. Vestibulum in nibh massa. Curabitur vel velit sit amet lacus luctus vehicula in quis sem.",
               "timestamp": "12/10/2019 09:34:21 AM",
-              "threadType": "agent"
+              "threadType": "agent",
+              "attachmentsCount": 0
          },
          {
               "id": 288385,
@@ -123,7 +125,8 @@
               "profileUrl": "https://via.placeholder.com/100",
               "content": "Integer ac dolor quam. Pellentesque sodales tortor ac imperdiet molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas quis justo sem. Quisque enim dui, cursus a feugiat eu, tempor quis massa. Duis ultricies ex non mi imperdiet, in congue nibh convallis.",
               "timestamp": "12/10/2019 04:12:05 PM",
-              "threadType": "user"
+              "threadType": "user",
+              "attachmentsCount": 1
          },
          {
               "id": 288386,
@@ -131,7 +134,8 @@
               "profileUrl": "https://via.placeholder.com/100",
               "content": "Suspendisse vulputate metus et nibh rutrum, vel ornare est lobortis. Vivamus vestibulum porttitor erat sit amet posuere.",
               "timestamp": "12/10/2019 05:34:21 PM",
-              "threadType": "user"
+              "threadType": "user",
+              "attachmentsCount": 0
          },
          {
               "id": 288387,
@@ -139,7 +143,8 @@
               "profileUrl": "https://via.placeholder.com/100",
               "content": "In vel mauris sit amet purus pulvinar sollicitudin non vel diam. Suspendisse tempor suscipit luctus. Aliquam luctus tortor non nibh tristique interdum. Integer sollicitudin ex sed elit tempor scelerisque.",
               "timestamp": "12/11/2019 12:05:21 PM",
-              "threadType": "agent"
+              "threadType": "agent",
+              "attachmentsCount": 1
          },
          {
               "id": 288388,
@@ -147,7 +152,8 @@
               "profileUrl": "https://via.placeholder.com/100",
               "content": "Nam condimentum tincidunt nisi quis tincidunt. Vestibulum venenatis quis leo nec molestie. Fusce nisl dui, tincidunt eu bibendum sit amet, ornare non lorem. Quisque imperdiet sit amet eros volutpat mattis. Etiam cursus felis eu tortor commodo, eu pharetra purus pretium. Cras eu lacus lectus.",
               "timestamp": "12/12/2019 11:34:21 AM",
-              "threadType": "user"
+              "threadType": "user",
+              "attachmentsCount": 0
          }
     ],
 
