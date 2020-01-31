@@ -222,8 +222,7 @@
               "fileType": "pdf",
               "size": "2.5",
               "sizeType": "MB",
-              "threadId": 288383,
-              "ticketId": 1848394
+              "ref": 288383
          },
          {
               "id": 583830,
@@ -231,8 +230,7 @@
               "fileType": "docx",
               "size": "5.7",
               "sizeType": "MB",
-              "threadId": 288383,
-              "ticketId": 1848394
+              "ref": 288383
          },
          {
               "id": 583830,
@@ -240,8 +238,7 @@
               "fileType": "jpg",
               "size": "1.2",
               "sizeType": "MB",
-              "threadId": 288385,
-              "ticketId": 1848394
+              "ref": 288385
          },
          {
               "id": 583831,
@@ -249,8 +246,7 @@
               "fileType": "jpg",
               "size": "835",
               "sizeType": "KB",
-              "threadId": 288387,
-              "ticketId": 1848394
+              "ref": 288387
          }
     ]
 }
