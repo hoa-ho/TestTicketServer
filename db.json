@@ -230,7 +230,7 @@
          },
          {
               "id": 26,
-              "name": "Closed Tickets"
+              "name": "Closed Tickets",
               "slug": "closed"
          }
     ],
