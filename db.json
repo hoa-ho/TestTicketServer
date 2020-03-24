@@ -32,7 +32,7 @@
                "id": 1848395,
                "title": "Is the universe finite or infinite?",
                "sender": "Bob Junior",
-               "status": "Open",
+               "status": "Closed",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -53,7 +53,7 @@
                "id": 1848397,
                "title": "What food have you never eaten but would really like to try?",
                "sender": "George Olsen",
-               "status": "Open",
+               "status": "Answered",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -74,14 +74,14 @@
                "id": 1848400,
                "title": "What are some red flags to watch out for in daily life?",
                "sender": "Larry Page",
-               "status": "Open",
+               "status": "Answered",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
                "id": 1848401,
                "title": "What movie can you watch over and over without ever getting tired of?",
                "sender": "Shinhwa Cheng",
-               "status": "Open",
+               "status": "Overdue",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -206,7 +206,7 @@
          {
               "id": 21,
               "name": "Open Tickets",
-              "slug": "opened"
+              "slug": "open"
          },
          {
               "id": 22,
