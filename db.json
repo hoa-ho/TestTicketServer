@@ -205,32 +205,32 @@
     "ticketQueues": [
          {
               "id": 21,
-              "name": "Open Tickets",
+              "title": "Open Tickets",
               "slug": "open"
          },
          {
               "id": 22,
-              "name": "Assigned Tickets",
+              "title": "Assigned Tickets",
               "slug": "assigned"
          },
          {
               "id": 23,
-              "name": "Answered Tickets",
+              "title": "Answered Tickets",
               "slug": "answered"
          },
          {
               "id": 24,
-              "name": "Overdue Tickets",
+              "title": "Overdue Tickets",
               "slug": "overdue"
          },
          {
               "id": 25,
-              "name": "Draft Tickets",
+              "title": "Draft Tickets",
               "slug": "draft"
          },
          {
               "id": 26,
-              "name": "Closed Tickets",
+              "title": "Closed Tickets",
               "slug": "closed"
          }
     ],
