@@ -5,7 +5,6 @@
                "title": "What’s the most expensive thing you’ve broken?",
                "sender": "Jack Daniels",
                "status": "Open",
-               "department": "Support",
                "timestamp": "9/20/2019 1:46 AM"
          },
          {
@@ -13,7 +12,6 @@
                "title": "What’s the spiciest thing you’ve ever eaten?",
                "sender": "Conner Vale",
                "status": "Open",
-               "department": "Billing",
                "timestamp": "9/20/2019 1:46 PM"
          },
          {
@@ -21,7 +19,6 @@
                "title": "Why is there an exception to every rule?",
                "sender": "John Doe",
                "status": "Open",
-               "department": "Support",
                "timestamp": "9/21/2019 5:46 PM"
          },
          {
@@ -29,7 +26,6 @@
                "title": "Why do logic and reason fail to explain that which is true?",
                "sender": "Bob Junior",
                "status": "Open",
-               "department": "Sales",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -37,7 +33,6 @@
                "title": "Is the universe finite or infinite?",
                "sender": "Bob Junior",
                "status": "Closed",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -45,7 +40,6 @@
                "title": "Why does anything exist?",
                "sender": "Tom Fontenot",
                "status": "Open",
-               "department": "Technical",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -53,7 +47,6 @@
                "title": "What food have you never eaten but would really like to try?",
                "sender": "George Olsen",
                "status": "Open",
-               "department": "Billing",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -61,7 +54,6 @@
                "title": "What food have you never eaten but would really like to try?",
                "sender": "George Olsen",
                "status": "Answered",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -69,7 +61,6 @@
                "title": "What’s something you really resent paying for?",
                "sender": "Barack Obama",
                "status": "Open",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -77,7 +68,6 @@
                "title": "What would a world populated by clones of you be like",
                "sender": "Victoria Rickshaw",
                "status": "Open",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -85,7 +75,6 @@
                "title": "What are some red flags to watch out for in daily life?",
                "sender": "Larry Page",
                "status": "Answered",
-               "department": "Sales",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -93,7 +82,6 @@
                "title": "What movie can you watch over and over without ever getting tired of?",
                "sender": "Shinhwa Cheng",
                "status": "Overdue",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -101,7 +89,6 @@
                "title": "When you are old, what do you think children will ask you to tell stories about?",
                "sender": "Gucci Fendi",
                "status": "Open",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -109,7 +96,6 @@
                "title": "What inanimate object would be the most annoying if it played loud upbeat music while being used?",
                "sender": "Llama Bama",
                "status": "Open",
-               "department": "Billing",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -117,7 +103,6 @@
                "title": "If your job gave you a surprise three day paid break to rest and recuperate, what would you do with those three days?",
                "sender": "Space Cat",
                "status": "Open",
-               "department": "Technical",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -125,7 +110,6 @@
                "title": "What’s something that will always be in fashion, no matter how much time passes?",
                "sender": "Hoa Ho",
                "status": "Open",
-               "department": "Support",
                "timestamp": "9/22/2019 1:15 PM"
          }
     ],
